@@ -24,3 +24,6 @@ How to run these two model:
 2. Run PreProcessing.ipynb to clean the dataset and create a new csv file that the two models use.
 3. You can run either ipynb model and see results. You can also toy around to see if you can improve these models as well. Please
    share feedback if you can!
+
+Kaggle Dataset link:
+https://www.kaggle.com/datasets/adityak2003/college-basketball-players-20092021

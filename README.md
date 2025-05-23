@@ -25,5 +25,7 @@ How to run these two model:
 3. You can run either ipynb model and see results. You can also toy around to see if you can improve these models as well. Please
    share feedback if you can!
 
+THIS REPOSITORY IS CURRENTLY BEING UPDATED TO INCLUDE COMBINE STATS AND PREDICTIONS FOR OTHER POSITIONS. 
+
 Kaggle Dataset link:
 https://www.kaggle.com/datasets/adityak2003/college-basketball-players-20092021
